@@ -6,7 +6,7 @@ Nous, en tant que membres de la communauté AndroNav, nous engageons à mainteni
 
 Pour contribuer au projet AndroNav, vous devez utiliser la version suivante de Graddle: 7.5, la version d'Android Studio: 2022.1.1.21 (Electric Eel).
 
-Nous utilisons l'émulateur d'Android Studio pour tester l'application, l'emulateur Pixel 6 API 30.
+Nous utilisons l'émulateur d'Android Studio pour tester l'application, l'emulateur Pixel 4 API 30 (disposant des services Google Play).
 
 ## Convention de nommage
 
