@@ -1,9 +1,6 @@
 <div align="center">
 
 ![Logo de mon projet](./img/logo_univ.png)
-![Licence](https://img.shields.io/badge/licence-MIT-green.svg)
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visual-studio-code)](https://vscode.dev/github.com/andronavlabs/andronavlabs)
 
 </div>
 
